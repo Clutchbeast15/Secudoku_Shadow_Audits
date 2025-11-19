@@ -1,7 +1,7 @@
-📢 Disclaimer
-This repository contains a shadow audit created only for learning and educational purposes.
-It is not an official audit.
-This is simply part of my learning journey through shadow audits.
+# 📢 Disclaimer
+- This repository contains a shadow audit created only for learning and educational purposes.
+- It is not an official audit.
+- This is simply part of my learning journey through shadow audits.
 
 # 🕵️‍♂️ Secudoku_Shadow_Audits
 
@@ -50,15 +50,10 @@ Each report includes:
 
 - Manual Code Review (core method)
 - [Slither](https://github.com/crytic/slither)
-- [Foundry](https://book.getfoundry.sh/) for PoC testing
-
-
-## 🧠 Inspirations
-
-- Audit reports from **Trail of Bits**, **OpenZeppelin**, **Sherlock**, and **Code4rena**  
-- Public codebases from **DeFiHackLabs**, **Rekt**, and CTFs  
-- Audit shadowing sessions inspired by **Secudoku's** learning style  
-
+- Aderyn
+- cloc
+- Solidity Metrics 
+- Solidity Visual Developer
 
 
 ## 🤝 Let's Connect
@@ -67,13 +62,8 @@ I’m sharing these shadow audits as part of my **public learning journey** to b
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/vaibhav-sutar-977417349/)  
 - 🐦 [X (Twitter)](https://twitter.com/SutarVaibhav_15)  
-- 📬 Open to feedback, reviews, or collab audits!
+- 📬 Open to feedback, reviews, or collab!
 
-
-
-⭐ Star this repo if you're into smart contract security or want to follow my audit journey.
-
-> **Security is not a checklist — it's a mindset.** 🔐
 ---
 
 
