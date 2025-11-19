@@ -1,7 +1,11 @@
+📢 Disclaimer
+This repository contains a shadow audit created only for learning and educational purposes.
+It is not an official audit.
+This is simply part of my learning journey through shadow audits.
 
 # 🕵️‍♂️ Secudoku_Shadow_Audits
 
-Welcome to **Secudoku_Shadow_Audits** — a collection of smart contract audit reports created by shadowing real-world DeFi protocols and security assessments. This repository is a part of my continuous journey in mastering **smart contract security** through deep practice and hands-on analysis.
+Welcome to **Secudoku_Shadow_Audits** a collection of smart contract audit reports created by shadowing real-world DeFi protocols and security assessments. This repository is a part of my continuous journey in mastering **smart contract security** through deep practice and hands-on analysis.
 
 > ⚔️ Learn by auditing. Improve by shadowing. Master through repetition.
 
